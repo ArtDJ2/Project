@@ -79,4 +79,35 @@ ul{
     color: aqua;
     list-style-type: none;
 }
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+h5{
+    border-radius: 5px;
+}
+a:hover{
+    background-color: aqua;
+}
+.n:hover{
+    background-color: aqua;
+}
+a{
+    transition: 1s;
+    border-radius: 5px;
+}
+form{
+    text-align: center;
+}
+img:hover{
+    transform: scale(1.2);
 
+}
